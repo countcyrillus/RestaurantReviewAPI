@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Factory="RestaurantService.UnityServiceHostFactory" Service="RestaurantService.Service" CodeBehind="Service.svc.cs" %>
